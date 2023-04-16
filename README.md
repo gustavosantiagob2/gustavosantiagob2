@@ -1,10 +1,11 @@
-### Olá, Eu sou o Gustvo Santiago ✍️
+### Hi!, i'm Gustvo Santiago ✍️
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo&show_icons=true&theme=transparent)
 
-### Algumas tecnoligias que eu gosto bastante de estudar
+
+### Some technologies i like to study
 <div>
 <img align = "center" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt = "html5">
 <img align = "center" src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "html5">
