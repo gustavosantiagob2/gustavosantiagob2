@@ -1,7 +1,5 @@
 ### Hi!, i'm Gustvo Santiago ✍️
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo&show_icons=true&theme=transparent)
-
 
 ### Some technologies i like to study
 <div>
