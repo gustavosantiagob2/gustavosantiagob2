@@ -19,7 +19,7 @@
 <div style="display: inline_block">
    <br>
   <img align="center" alt="Gustavo-Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
-  <img align="center" alt="Gustavo-Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="Gustavo-Sqlite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
   <img align="center" alt="Gustavo-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Gustavo-Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white">
   <img align="center" alt="Gustavo-MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
