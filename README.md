@@ -15,7 +15,9 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosantiagob2&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 
-## skils
+## Skills 
+<img height="52em" src="https://github.com/user-attachments/assets/07679413-76db-4371-8e41-b5899b99ae73"/>
+ 
 <div style="display: inline_block">
    <br>
   <img align="center" alt="Gustavo-Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
@@ -27,8 +29,21 @@
   <img align="center" alt="Gustavo-Csharp" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
   <img align="center" alt="Gustavo-Csharp2" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
 </div>
+
+## Trophies 
+<img height="68em" src="https://github.com/user-attachments/assets/a6bb5326-9c5f-4afa-85ff-6d2401470c19"/>
+
+<br><br>
+
+<div>
+  <a href="#">	
+    <img  src="https://github-trophies.vercel.app/?username=gustavosantiagob2&theme=gruvbox&no-frame=true&margin-w=50&no-bg=true" alt="Trofeus"/>
+  </a>
+</div>
 	
 ## contacts
+
+
 <div> 
   <a href = "mailto:gustavohenriquesantiago5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-santiago-b3989a207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
