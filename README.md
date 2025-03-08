@@ -47,7 +47,9 @@
   <a href="mailto:gustavohenriquesantiago5@gmail.com">	
     <img  src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail"/>
   </a>
+	
   <a href="https://www.linkedin.com/in/gustavo-santiago-b3989a207/">	
     <img  src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin"/>
   </a>   
+	
 </div> 
