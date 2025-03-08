@@ -8,11 +8,11 @@
 <picture align="left">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gustavosantiagob2&show_icons=true&theme=prussian"
-    media="(prefers-color-scheme: dark)" height="180em"
+    media="(prefers-color-scheme: dark)" height="150em"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=gustavosantiagob2&show_icons=true" />
 </picture>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosantiagob2&layout=compact&langs_count=7&theme=blueberry"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosantiagob2&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 
 ## Skills 
