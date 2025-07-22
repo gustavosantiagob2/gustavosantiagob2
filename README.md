@@ -2,7 +2,9 @@
 
 ° I'm a development | Mobile 📲 | Web 💻 | Kotlin | C# 
 <br/>
-° I always strive to be prepared. Carrying out personal projects and courses Solid studies in C# and Kotlin
+° I always strive to be prepared. Carrying out personal projects and courses.
+<br/>
+° Solid studies in C# and Kotlin
 <br/>
 ° Xamarin.Forms | .NET MAUI | Web Forms | ASPNET Core | Jetpack Compose | MVVM and MVC architecture.
 <br/>
