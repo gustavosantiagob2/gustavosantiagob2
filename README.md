@@ -1,8 +1,13 @@
 ## SUP!, i'm Gustvo Henrique 🫱🏿
 
-° I'm a mobile development student
+° I'm a development | Mobile 📲 | Web 💻 | Kotlin | C# 
 <br/>
-° I'm fascinated for mobile developement...
+° I always strive to be prepared. Carrying out personal projects and courses Solid studies in C# and Kotlin
+<br/>
+° Xamarin.Forms | .NET MAUI | Web Forms | ASPNET Core | Jetpack Compose | MVVM and MVC architecture.
+<br/>
+° I'm fascinated for mobile and web developement...
+<br/>
 
 <div align="left">
 <picture align="left">
