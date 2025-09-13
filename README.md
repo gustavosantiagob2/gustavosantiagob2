@@ -6,7 +6,7 @@
 <br/>
 ° Solid studies in C# and Kotlin
 <br/>
-° Xamarin.Forms | .NET MAUI | Web Forms | ASPNET Core | Jetpack Compose | MVVM and MVC architecture.
+° Kotlin | C# | .NET MAUI | Android | ASPNET Core | Jetpack Compose | MVVM and MVC architecture.
 <br/>
 ° I'm fascinated for mobile and web developement...
 <br/>
